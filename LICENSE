@@ -186,7 +186,7 @@
       same "printed page" as the copyright notice for easier
       identification within third-party archives.
 
-   Copyright [yyyy] [name of copyright owner]
+   Copyright [2024] [kistrnd]
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
@@ -199,3 +199,36 @@
    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
    See the License for the specific language governing permissions and
    limitations under the License.
+
+---
+
+This project includes the following third-party libraries. Each library is distributed under its respective license:
+
+1. **warnings**  
+   - Python standard library. Licensed under the Python Software Foundation License (PSFL).
+
+2. **pandas**  
+   - BSD 3-Clause License.  
+     Copyright © The pandas development team.
+
+3. **networkx**  
+   - BSD 3-Clause License.  
+     Copyright © NetworkX Developers.
+
+4. **causalnex**  
+   - Apache License 2.0.  
+     Copyright © QuantumBlack Visual Analytics Limited.
+
+5. **scikit-learn (sklearn)**  
+   - BSD 3-Clause License.  
+     Copyright © The scikit-learn developers.
+
+6. **matplotlib**  
+   - BSD-style license and Python Software Foundation License.  
+     Copyright © Matplotlib Development Team.
+
+7. **numpy**  
+   - BSD 3-Clause License.  
+     Copyright © The NumPy Developers.
+
+For detailed license information for these libraries, refer to their respective documentation or license files included with their distributions.
